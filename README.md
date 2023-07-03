@@ -1,5 +1,4 @@
 # 提前准备：
-安装库
 pyperclip 1.8.2  
 selenium 3.141.0  
 pyautogui 0.9.53  
