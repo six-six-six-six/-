@@ -1,8 +1,8 @@
 # 提前准备：
 安装库
-pyperclip 1.8.2
-selenium 3.141.0
-pyautogui 0.9.53
+pyperclip 1.8.2  
+selenium 3.141.0  
+pyautogui 0.9.53  
 xlrd 2.0.1
 opencv 4.6.0
 kill_time是设定的抢购时间
