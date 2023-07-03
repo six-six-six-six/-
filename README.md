@@ -3,12 +3,12 @@
 pyperclip 1.8.2  
 selenium 3.141.0  
 pyautogui 0.9.53  
-xlrd 2.0.1
-opencv 4.6.0
-kill_time是设定的抢购时间
-修改dirver()函数中option.binary_location变量-谷歌浏览器的地址，open_browser变量-谷歌浏览器对应版本的驱动地址
-修改pay()函数中pyautogui.hotkey的密码
-修改main()函数的kill_time-开始抢购时间
+xlrd 2.0.1  
+opencv 4.6.0  
+kill_time是设定的抢购时间  
+修改dirver()函数中option.binary_location变量-谷歌浏览器的地址，open_browser变量-谷歌浏览器对应版本的驱动地址  
+修改pay()函数中pyautogui.hotkey的密码  
+修改main()函数的kill_time-开始抢购时间  
 
 
 
